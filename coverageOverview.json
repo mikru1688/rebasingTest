@@ -1,0 +1,1179 @@
+{
+  "overview": {
+    "internal_list": [
+      {
+        "group": "A",
+        "type": "A2",
+        "title": "一般意外身故(含一般身故)",
+        "unit": "萬元",
+        "value": 5954.9219,
+        "benefit_list": [],
+        "non_benefit_list": [
+          "水上大眾運輸意外身故(另給付)",
+          "陸地大眾運輸意外身故(另給付)",
+          "航空大眾運輸意外身故(另給付)"
+        ]
+      },
+      {
+        "group": "A",
+        "type": "A3",
+        "title": "癌症身故(含一般身故)",
+        "unit": "萬元",
+        "value": 5704.9219,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "B",
+        "type": "B2",
+        "title": "還本金/滿期金",
+        "unit": "元",
+        "value": 200000.0,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "C",
+        "type": "C1",
+        "title": "住院日額",
+        "unit": "元/天",
+        "value": 4000.0,
+        "benefit_list": [
+          {
+            "type": "C1_008",
+            "title": "住院日額(定期型)",
+            "total": {
+              "unit": "元/天",
+              "value": 4000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 4000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 1000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C1_011",
+            "title": "加護/重大燒燙傷病房日額(定期型)",
+            "total": {
+              "unit": "元/天",
+              "value": 2000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 2000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 1000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C1_012",
+            "title": "住院前後門診(定期型)",
+            "total": {
+              "unit": "元/次",
+              "value": 500.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 500.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 250.0
+                }
+              ]
+            }
+          }
+        ],
+        "non_benefit_list": [
+          "加護/重大燒燙傷病房日額(定期型)",
+          "出院療養(每日)(定期型)",
+          "出院療養(每日)(終身型)",
+          "法定傳染病住院關懷保險金",
+          "住院前後門診(終身型)",
+          "住院關懷保險金(定期型)",
+          "加護/重大燒燙傷病房日額(終身型)",
+          "門診醫療保險金",
+          "住院日額(終身型)",
+          "住院前後門診(定期型)",
+          "住院日額(定期型)",
+          "急診保險金(終身型)",
+          "安寧病房醫療(終身型)",
+          "緊急運送保險金(終身型)",
+          "住院關懷保險金(終身型)"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C4",
+        "title": "重大疾病",
+        "unit": "萬元",
+        "value": 70.0,
+        "benefit_list": [
+          {
+            "type": "C4_001",
+            "title": "重度重大疾病",
+            "total": {
+              "unit": "萬元",
+              "value": 70.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 70.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901589",
+                  "value": 700000.0
+                }
+              ]
+            }
+          }
+        ],
+        "non_benefit_list": [
+          "嚴重特定傷病暨特定障礙保險金",
+          "重大傷病保險金(健保重大傷病證明)",
+          "100%精選傷病保險金",
+          "輕度重大疾病",
+          "特定(重大)傷病",
+          "特定疾病保險金",
+          "重度重大疾病"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C5",
+        "title": "癌症醫療",
+        "unit": "萬元",
+        "value": 630.0,
+        "benefit_list": [
+          {
+            "type": "C5_001",
+            "title": "首次罹患癌症(重度)",
+            "total": {
+              "unit": "萬元",
+              "value": 630.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 630.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 1400000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C5_002",
+            "title": "首次罹患原位癌(初期)",
+            "total": {
+              "unit": "萬元",
+              "value": 56.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 56.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 140000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C5_003",
+            "title": "癌症門診醫療",
+            "total": {
+              "unit": "元/次",
+              "value": 28000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 28000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 7000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C5_004",
+            "title": "癌症住院日額",
+            "total": {
+              "unit": "元/天",
+              "value": 33600.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 33600.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 8400.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C5_005",
+            "title": "癌症出院療養",
+            "total": {
+              "unit": "元/天",
+              "value": 22400.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 22400.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 5600.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C5_007",
+            "title": "癌症住院手術醫療",
+            "total": {
+              "unit": "元/次",
+              "value": 840000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 840000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 210000.0
+                }
+              ]
+            }
+          }
+        ],
+        "non_benefit_list": [
+          "白血病骨髓或幹細胞移植",
+          "重度癌症生活照護保險金",
+          "癌症住院手術醫療",
+          "首次罹患實體癌第四期自體免疫細胞治療保險金",
+          "癌症門診切除手術醫療",
+          "首次罹患特定癌症疾病(第三保單年度(含)起)",
+          "癌症出院療養",
+          "首次罹患輕度癌症",
+          "癌症放射線治療",
+          "癌症乳房重建手術",
+          "癌症身心關懷保險金",
+          "癌症化學治療",
+          "乳癌護理保險金",
+          "特定重度癌症保險金",
+          "癌症住院日額",
+          "癌症門診醫療",
+          "惡性淋巴瘤骨髓或幹細胞移植",
+          "癌症特定機械手臂微創切除手術醫療保險金",
+          "首次罹患原位癌(初期)",
+          "癌症義齒裝設",
+          "罹癌後癌症基因檢測保險金",
+          "首次罹患癌症(重度)",
+          "癌症義肢裝設",
+          "重度癌症標靶治療保險金"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C7",
+        "title": "意外傷害",
+        "unit": "元",
+        "min_value": 125000.0,
+        "max_value": 2500000.0,
+        "benefit_list": [
+          {
+            "type": "C7_003",
+            "title": "意外失能",
+            "total": {
+              "unit": "元",
+              "min_value": 125000.0,
+              "max_value": 2500000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元",
+                "min_value": 125000.0,
+                "max_value": 2500000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "min_value": 125000.0,
+                  "max_value": 2500000.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C7_007",
+            "title": "長期喪失工作能力(每月)",
+            "total": {
+              "unit": "元/月",
+              "value": 20833.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/月",
+                "value": 20833.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "value": 4167.0
+                }
+              ]
+            }
+          },
+          {
+            "type": "C7_012",
+            "title": "意外手術醫療",
+            "total": {
+              "unit": "元",
+              "value": 50000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元",
+                "value": 50000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "value": 10000.0
+                }
+              ]
+            }
+          }
+        ],
+        "non_benefit_list": [
+          "意外住院日額",
+          "意外手術醫療",
+          "意外傷害醫療限額",
+          "航空大眾運輸意外失能(另給付)",
+          "陸地大眾運輸意外失能(另給付)",
+          "水上大眾運輸意外失能(另給付)",
+          "長期喪失工作能力(每月)",
+          "意外1~6級傷害失能補償(每月)",
+          "意外骨折保險金",
+          "意外重大燒燙傷",
+          "意外失能"
+        ]
+      }
+    ],
+    "include_external_list": [
+      {
+        "group": "A",
+        "type": "A1",
+        "title": "一般身故",
+        "unit": "萬元",
+        "value": 5704.9219,
+        "include_external": false,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "A",
+        "type": "A2",
+        "title": "一般意外身故(含一般身故)",
+        "unit": "萬元",
+        "value": 5954.9219,
+        "include_external": false,
+        "benefit_list": [],
+        "non_benefit_list": [
+          "水上大眾運輸意外身故(另給付)",
+          "陸地大眾運輸意外身故(另給付)",
+          "航空大眾運輸意外身故(另給付)"
+        ]
+      },
+      {
+        "group": "A",
+        "type": "A3",
+        "title": "癌症身故(含一般身故)",
+        "unit": "萬元",
+        "value": 5704.9219,
+        "include_external": false,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "B",
+        "type": "B1",
+        "title": "保單價值",
+        "unit": "元",
+        "value": 4.6862419E7,
+        "include_external": false,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "B",
+        "type": "B2",
+        "title": "還本金/滿期金",
+        "unit": "元",
+        "value": 200000.0,
+        "include_external": false,
+        "benefit_list": [],
+        "non_benefit_list": []
+      },
+      {
+        "group": "C",
+        "type": "C1",
+        "title": "住院日額",
+        "unit": "元/天",
+        "value": 4000.0,
+        "include_external": false,
+        "benefit_list": [
+          {
+            "type": "C1_008",
+            "title": "住院日額(定期型)",
+            "total": {
+              "unit": "元/天",
+              "value": 4000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 4000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 1000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C1_011",
+            "title": "加護/重大燒燙傷病房日額(定期型)",
+            "total": {
+              "unit": "元/天",
+              "value": 2000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 2000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 1000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C1_012",
+            "title": "住院前後門診(定期型)",
+            "total": {
+              "unit": "元/次",
+              "value": 500.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 500.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897500",
+                  "value": 250.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          }
+        ],
+        "non_benefit_list": [
+          "加護/重大燒燙傷病房日額(定期型)",
+          "出院療養(每日)(定期型)",
+          "出院療養(每日)(終身型)",
+          "法定傳染病住院關懷保險金",
+          "住院前後門診(終身型)",
+          "住院關懷保險金(定期型)",
+          "加護/重大燒燙傷病房日額(終身型)",
+          "門診醫療保險金",
+          "住院日額(終身型)",
+          "住院前後門診(定期型)",
+          "住院日額(定期型)",
+          "急診保險金(終身型)",
+          "安寧病房醫療(終身型)",
+          "緊急運送保險金(終身型)",
+          "住院關懷保險金(終身型)"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C4",
+        "title": "重大疾病",
+        "unit": "萬元",
+        "value": 70.0,
+        "include_external": false,
+        "benefit_list": [
+          {
+            "type": "C4_001",
+            "title": "重度重大疾病",
+            "total": {
+              "unit": "萬元",
+              "value": 70.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 70.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901589",
+                  "value": 700000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          }
+        ],
+        "non_benefit_list": [
+          "嚴重特定傷病暨特定障礙保險金",
+          "重大傷病保險金(健保重大傷病證明)",
+          "100%精選傷病保險金",
+          "輕度重大疾病",
+          "特定(重大)傷病",
+          "特定疾病保險金",
+          "重度重大疾病"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C5",
+        "title": "癌症醫療",
+        "unit": "萬元",
+        "value": 630.0,
+        "include_external": false,
+        "benefit_list": [
+          {
+            "type": "C5_001",
+            "title": "首次罹患癌症(重度)",
+            "total": {
+              "unit": "萬元",
+              "value": 630.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 630.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 1400000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C5_002",
+            "title": "首次罹患原位癌(初期)",
+            "total": {
+              "unit": "萬元",
+              "value": 56.0
+            },
+            "internal": {
+              "total": {
+                "unit": "萬元",
+                "value": 56.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 140000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C5_003",
+            "title": "癌症門診醫療",
+            "total": {
+              "unit": "元/次",
+              "value": 28000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 28000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 7000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C5_004",
+            "title": "癌症住院日額",
+            "total": {
+              "unit": "元/天",
+              "value": 33600.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 33600.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 8400.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C5_005",
+            "title": "癌症出院療養",
+            "total": {
+              "unit": "元/天",
+              "value": 22400.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/天",
+                "value": 22400.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 5600.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C5_007",
+            "title": "癌症住院手術醫療",
+            "total": {
+              "unit": "元/次",
+              "value": 840000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/次",
+                "value": 840000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000901590",
+                  "value": 210000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          }
+        ],
+        "non_benefit_list": [
+          "白血病骨髓或幹細胞移植",
+          "重度癌症生活照護保險金",
+          "癌症住院手術醫療",
+          "首次罹患實體癌第四期自體免疫細胞治療保險金",
+          "癌症門診切除手術醫療",
+          "首次罹患特定癌症疾病(第三保單年度(含)起)",
+          "癌症出院療養",
+          "首次罹患輕度癌症",
+          "癌症放射線治療",
+          "癌症乳房重建手術",
+          "癌症身心關懷保險金",
+          "癌症化學治療",
+          "乳癌護理保險金",
+          "特定重度癌症保險金",
+          "癌症住院日額",
+          "癌症門診醫療",
+          "惡性淋巴瘤骨髓或幹細胞移植",
+          "癌症特定機械手臂微創切除手術醫療保險金",
+          "首次罹患原位癌(初期)",
+          "癌症義齒裝設",
+          "罹癌後癌症基因檢測保險金",
+          "首次罹患癌症(重度)",
+          "癌症義肢裝設",
+          "重度癌症標靶治療保險金"
+        ]
+      },
+      {
+        "group": "C",
+        "type": "C7",
+        "title": "意外傷害",
+        "unit": "元",
+        "min_value": 125000.0,
+        "max_value": 2500000.0,
+        "include_external": false,
+        "benefit_list": [
+          {
+            "type": "C7_003",
+            "title": "意外失能",
+            "total": {
+              "unit": "元",
+              "min_value": 125000.0,
+              "max_value": 2500000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元",
+                "min_value": 125000.0,
+                "max_value": 2500000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "min_value": 125000.0,
+                  "max_value": 2500000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C7_007",
+            "title": "長期喪失工作能力(每月)",
+            "total": {
+              "unit": "元/月",
+              "value": 20833.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元/月",
+                "value": 20833.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "value": 4167.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          },
+          {
+            "type": "C7_012",
+            "title": "意外手術醫療",
+            "total": {
+              "unit": "元",
+              "value": 50000.0
+            },
+            "internal": {
+              "total": {
+                "unit": "元",
+                "value": 50000.0
+              },
+              "items": [
+                {
+                  "coverage_no": "10000000000897562",
+                  "value": 10000.0
+                }
+              ]
+            },
+            "nsl": null,
+            "other": null
+          }
+        ],
+        "non_benefit_list": [
+          "意外住院日額",
+          "意外手術醫療",
+          "意外傷害醫療限額",
+          "航空大眾運輸意外失能(另給付)",
+          "陸地大眾運輸意外失能(另給付)",
+          "水上大眾運輸意外失能(另給付)",
+          "長期喪失工作能力(每月)",
+          "意外1~6級傷害失能補償(每月)",
+          "意外骨折保險金",
+          "意外重大燒燙傷",
+          "意外失能"
+        ]
+      }
+    ]
+  },
+  "policy": [
+    {
+      "company": null,
+      "policy_no": "1100362590"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362591"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362970"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362984"
+    },
+    {
+      "company": null,
+      "policy_no": "1100364944"
+    },
+    {
+      "company": null,
+      "policy_no": "1100364906"
+    },
+    {
+      "company": null,
+      "policy_no": "1100364909"
+    },
+    {
+      "company": null,
+      "policy_no": "1100364915"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362989"
+    },
+    {
+      "company": null,
+      "policy_no": "1100363402"
+    },
+    {
+      "company": null,
+      "policy_no": "1100363404"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362969"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362982"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362986"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362297"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362553"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362554"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362565"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362574"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362576"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362582"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362592"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362594"
+    },
+    {
+      "company": null,
+      "policy_no": "1100362596"
+    }
+  ],
+  "coverage": [
+    {
+      "coverage_no": "10000000000897500",
+      "policy_no": "1100362590",
+      "coverage_short_name": "1HIR",
+      "sum_insured": 10,
+      "sum_insured_unit": "百元"
+    },
+    {
+      "coverage_no": "10000000000892499",
+      "policy_no": "1100362590",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000892499",
+      "policy_no": "1100362590",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000892499",
+      "policy_no": "1100362590",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897501",
+      "policy_no": "1100362591",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897501",
+      "policy_no": "1100362591",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897501",
+      "policy_no": "1100362591",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897501",
+      "policy_no": "1100362591",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897503",
+      "policy_no": "1100362592",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897503",
+      "policy_no": "1100362592",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897503",
+      "policy_no": "1100362592",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897503",
+      "policy_no": "1100362592",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897507",
+      "policy_no": "1100362594",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897507",
+      "policy_no": "1100362594",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897507",
+      "policy_no": "1100362594",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897507",
+      "policy_no": "1100362594",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897509",
+      "policy_no": "1100362596",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897509",
+      "policy_no": "1100362596",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897509",
+      "policy_no": "1100362596",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897509",
+      "policy_no": "1100362596",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897561",
+      "policy_no": "1100362970",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897561",
+      "policy_no": "1100362970",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897561",
+      "policy_no": "1100362970",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897561",
+      "policy_no": "1100362970",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897582",
+      "policy_no": "1100362984",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897582",
+      "policy_no": "1100362984",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897582",
+      "policy_no": "1100362984",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897582",
+      "policy_no": "1100362984",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897597",
+      "policy_no": "1100362989",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897597",
+      "policy_no": "1100362989",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897597",
+      "policy_no": "1100362989",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    },
+    {
+      "coverage_no": "10000000000897597",
+      "policy_no": "1100362989",
+      "coverage_short_name": "xPyE",
+      "sum_insured": 100,
+      "sum_insured_unit": "萬元"
+    }
+  ],
+  "last_updated": 1685066858,
+  "refresh_interval_sec": null
+}
